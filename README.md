@@ -76,6 +76,14 @@ cd android && ./gradlew assembleDebug        # APK: android/app/build/outputs/ap
 Android phones can use this web version as well. **Important on iPhone:** Safari may delete stored website data for sites unused for a long
 time; an app added to the Home Screen is exempt from the 7-day cleanup, but still **export a backup now and then**.
 
+### C0. iPhone, native app WITHOUT a Mac (sideloading)
+
+1. In GitHub: **Actions → "Build iPhone app (unsigned IPA)" → Run workflow** (it runs on a GitHub-hosted Mac). Download the artifact **Ordkort-iphone-ipa** (`Ordkort.ipa`).
+2. Install it on the iPhone with a sideloading tool that signs it with your own free Apple ID, for example **Sideloadly** or **AltStore** (Windows or Mac; they need iTunes/Apple Devices installed and the iPhone connected by cable once).
+3. On the iPhone: Settings → General → VPN & Device Management → trust your Apple ID; Settings → Privacy & Security → Developer Mode on (iOS 16+).
+4. A free Apple ID signature lasts **7 days**; re-run the sideload tool to renew (your data stays). A paid Apple Developer account (99 USD/year) removes the 7-day limit and allows TestFlight.
+*Untested: the workflow has not been run yet.*
+
 ### C. iPhone, native app (needs a Mac)
 
 ```
