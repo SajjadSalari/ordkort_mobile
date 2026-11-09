@@ -1,0 +1,33 @@
+name: Build iPhone app (unsigned IPA)
+on:
+  workflow_dispatch: {}
+jobs:
+  ios:
+    runs-on: macos-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: npm install
+      - run: npm test
+      - run: npx cap add ios
+      - name: App icons (best effort)
+        continue-on-error: true
+        run: npx --yes @capacitor/assets@4.0.0 generate --ios --assetPath assets
+      - run: npx cap sync ios
+      - name: Build without code signing
+        working-directory: ios/App
+        run: >
+          xcodebuild -project App.xcodeproj -scheme App -configuration Release
+          -sdk iphoneos -destination 'generic/platform=iOS' -derivedDataPath build
+          CODE_SIGNING_ALLOWED=NO CODE_SIGNING_REQUIRED=NO CODE_SIGN_IDENTITY="" build
+      - name: Package the IPA
+        run: |
+          mkdir -p Payload
+          cp -R ios/App/build/Build/Products/Release-iphoneos/App.app Payload/
+          zip -qr Ordkort.ipa Payload
+      - uses: actions/upload-artifact@v4
+        with:
+          name: Ordkort-iphone-ipa
+          path: Ordkort.ipa
