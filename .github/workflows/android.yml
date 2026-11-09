@@ -2,23 +2,20 @@ name: Build Android app (APK)
 on:
   workflow_dispatch: {}
   push:
-    branches: [main, master]
+    branches: [main]
 jobs:
   apk:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Show repository files
-        run: ls -la
       - uses: actions/setup-node@v4
-        with:
-          node-version: 22
+        with: { node-version: 22, cache: npm }
       - uses: actions/setup-java@v4
         with: { distribution: temurin, java-version: 21 }
-      - run: npm install
-      - run: npm test
+      - run: npm ci
+      - run: npm test                       # logic tests (parity with the desktop app)
       - run: npx cap add android
-      - name: App icons (best effort)
+      - name: App icons (best effort - the default icon is used if this step fails)
         continue-on-error: true
         run: npx --yes @capacitor/assets@4.0.0 generate --android --assetPath assets
       - run: npx cap sync android
