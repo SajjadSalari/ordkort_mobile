@@ -1,0 +1,74 @@
+[
+ {
+  "sv": "förstå",
+  "en": "to understand",
+  "clean_sv": "förstå",
+  "key": "förstå␟to understand"
+ },
+ {
+  "sv": "  Förstå. ",
+  "en": "To  Understand!",
+  "clean_sv": "Förstå.",
+  "key": "förstå␟to understand"
+ },
+ {
+  "sv": "resa",
+  "en": "trip",
+  "clean_sv": "resa",
+  "key": "resa␟trip"
+ },
+ {
+  "sv": "resa",
+  "en": "to travel",
+  "clean_sv": "resa",
+  "key": "resa␟to travel"
+ },
+ {
+  "sv": "å",
+  "en": "ring",
+  "clean_sv": "å",
+  "key": "å␟ring"
+ },
+ {
+  "sv": "Åska",
+  "en": "thunder",
+  "clean_sv": "Åska",
+  "key": "åska␟thunder"
+ },
+ {
+  "sv": "hus​",
+  "en": "house ",
+  "clean_sv": "hus",
+  "key": "hus␟house"
+ },
+ {
+  "sv": "STRASSE",
+  "en": "Straße",
+  "clean_sv": "STRASSE",
+  "key": "strasse␟strasse"
+ },
+ {
+  "sv": "öl",
+  "en": "beer?!",
+  "clean_sv": "öl",
+  "key": "öl␟beer"
+ },
+ {
+  "sv": "",
+  "en": "x",
+  "clean_sv": "",
+  "key": "␟x"
+ },
+ {
+  "sv": "tack",
+  "en": " . ",
+  "clean_sv": "tack",
+  "key": "tack␟"
+ },
+ {
+  "sv": "Ärlig",
+  "en": "honest;",
+  "clean_sv": "Ärlig",
+  "key": "ärlig␟honest"
+ }
+]

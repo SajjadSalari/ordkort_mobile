@@ -1,0 +1,1468 @@
+{
+ "format": "ordkort-library",
+ "version": 1,
+ "exported_at": "2026-11-08T23:33:54",
+ "decks": [
+  "01 Grundord",
+  "02 Mat och dryck",
+  "03 Resor och tid"
+ ],
+ "words": [
+  {
+   "swedish": "förstå",
+   "english": "to understand",
+   "example_sv": "Jag förstår inte vad du säger.",
+   "example_en": "I don't understand what you are saying.",
+   "pronunciation": "",
+   "pronunciation_source": "",
+   "source_file": "01_Grundord.docx",
+   "import_date": "2026-11-08T23:33:54",
+   "created_at": "2026-11-08T23:33:54",
+   "decks": [
+    "01 Grundord"
+   ],
+   "progress": {
+    "status": "known",
+    "ease": 2.8,
+    "interval_days": 8.0,
+    "due_date": "2026-11-17",
+    "streak": 3,
+    "reps": 3,
+    "lapses": 0,
+    "last_reviewed": "2026-11-01T10:00:00"
+   },
+   "reviews": [
+    {
+     "reviewed_at": "2026-11-01T10:00:00",
+     "result": "know",
+     "status_before": "new",
+     "status_after": "learning",
+     "interval_after": 1.0,
+     "ease_after": 2.6
+    },
+    {
+     "reviewed_at": "2026-11-01T10:00:00",
+     "result": "know",
+     "status_before": "learning",
+     "status_after": "learning",
+     "interval_after": 3.0,
+     "ease_after": 2.7
+    },
+    {
+     "reviewed_at": "2026-11-01T10:00:00",
+     "result": "know",
+     "status_before": "learning",
+     "status_after": "known",
+     "interval_after": 8.0,
+     "ease_after": 2.8
+    }
+   ]
+  },
+  {
+   "swedish": "äta",
+   "english": "to eat",
+   "example_sv": "Vi äter middag klockan sex.",
+   "example_en": "We eat dinner at six o'clock.",
+   "pronunciation": "",
+   "pronunciation_source": "",
+   "source_file": "01_Grundord.docx",
+   "import_date": "2026-11-08T23:33:54",
+   "created_at": "2026-11-08T23:33:54",
+   "decks": [
+    "01 Grundord",
+    "02 Mat och dryck"
+   ],
+   "progress": {
+    "status": "learning",
+    "ease": 2.4,
+    "interval_days": 1.0,
+    "due_date": "2026-11-10",
+    "streak": 1,
+    "reps": 2,
+    "lapses": 1,
+    "last_reviewed": "2026-11-02T10:01:00"
+   },
+   "reviews": [
+    {
+     "reviewed_at": "2026-11-02T10:01:00",
+     "result": "practice",
+     "status_before": "new",
+     "status_after": "practice",
+     "interval_after": 0.0,
+     "ease_after": 2.3
+    },
+    {
+     "reviewed_at": "2026-11-02T10:01:00",
+     "result": "know",
+     "status_before": "practice",
+     "status_after": "learning",
+     "interval_after": 1.0,
+     "ease_after": 2.4
+    }
+   ]
+  },
+  {
+   "swedish": "dricka",
+   "english": "to drink",
+   "example_sv": "Hon dricker kaffe varje morgon.",
+   "example_en": "She drinks coffee every morning.",
+   "pronunciation": "",
+   "pronunciation_source": "",
+   "source_file": "01_Grundord.docx",
+   "import_date": "2026-11-08T23:33:54",
+   "created_at": "2026-11-08T23:33:54",
+   "decks": [
+    "01 Grundord"
+   ],
+   "progress": {
+    "status": "practice",
+    "ease": 2.3,
+    "interval_days": 0.0,
+    "due_date": "2026-11-09",
+    "streak": 0,
+    "reps": 1,
+    "lapses": 1,
+    "last_reviewed": "2026-11-03T10:02:00"
+   },
+   "reviews": [
+    {
+     "reviewed_at": "2026-11-03T10:02:00",
+     "result": "practice",
+     "status_before": "new",
+     "status_after": "practice",
+     "interval_after": 0.0,
+     "ease_after": 2.3
+    }
+   ]
+  },
+  {
+   "swedish": "bo",
+   "english": "to live (reside)",
+   "example_sv": "Jag bor i Göteborg.",
+   "example_en": "I live in Gothenburg.",
+   "pronunciation": "[föʂ'tɔː]",
+   "pronunciation_source": "user",
+   "source_file": "01_Grundord.docx",
+   "import_date": "2026-11-08T23:33:54",
+   "created_at": "2026-11-08T23:33:54",
+   "decks": [
+    "01 Grundord"
+   ],
+   "progress": {
+    "status": "known",
+    "ease": 2.8,
+    "interval_days": 8.0,
+    "due_date": "2026-11-17",
+    "streak": 3,
+    "reps": 3,
+    "lapses": 0,
+    "last_reviewed": "2026-11-04T10:03:00"
+   },
+   "reviews": [
+    {
+     "reviewed_at": "2026-11-04T10:03:00",
+     "result": "know",
+     "status_before": "new",
+     "status_after": "learning",
+     "interval_after": 1.0,
+     "ease_after": 2.6
+    },
+    {
+     "reviewed_at": "2026-11-04T10:03:00",
+     "result": "know",
+     "status_before": "learning",
+     "status_after": "learning",
+     "interval_after": 3.0,
+     "ease_after": 2.7
+    },
+    {
+     "reviewed_at": "2026-11-04T10:03:00",
+     "result": "know",
+     "status_before": "learning",
+     "status_after": "known",
+     "interval_after": 8.0,
+     "ease_after": 2.8
+    }
+   ]
+  },
+  {
+   "swedish": "arbeta",
+   "english": "to work",
+   "example_sv": "Min bror arbetar på ett sjukhus.",
+   "example_en": "My brother works at a hospital.",
+   "pronunciation": "",
+   "pronunciation_source": "",
+   "source_file": "01_Grundord.docx",
+   "import_date": "2026-11-08T23:33:54",
+   "created_at": "2026-11-08T23:33:54",
+   "decks": [
+    "01 Grundord"
+   ],
+   "progress": {
+    "status": "learning",
+    "ease": 2.4,
+    "interval_days": 1.0,
+    "due_date": "2026-11-10",
+    "streak": 1,
+    "reps": 2,
+    "lapses": 1,
+    "last_reviewed": "2026-11-05T10:04:00"
+   },
+   "reviews": [
+    {
+     "reviewed_at": "2026-11-05T10:04:00",
+     "result": "practice",
+     "status_before": "new",
+     "status_after": "practice",
+     "interval_after": 0.0,
+     "ease_after": 2.3
+    },
+    {
+     "reviewed_at": "2026-11-05T10:04:00",
+     "result": "know",
+     "status_before": "practice",
+     "status_after": "learning",
+     "interval_after": 1.0,
+     "ease_after": 2.4
+    }
+   ]
+  },
+  {
+   "swedish": "läsa",
+   "english": "to read",
+   "example_sv": "Han läser en bok om historia.",
+   "example_en": "He is reading a book about history.",
+   "pronunciation": "",
+   "pronunciation_source": "",
+   "source_file": "01_Grundord.docx",
+   "import_date": "2026-11-08T23:33:54",
+   "created_at": "2026-11-08T23:33:54",
+   "decks": [
+    "01 Grundord"
+   ],
+   "progress": {
+    "status": "practice",
+    "ease": 2.3,
+    "interval_days": 0.0,
+    "due_date": "2026-11-09",
+    "streak": 0,
+    "reps": 1,
+    "lapses": 1,
+    "last_reviewed": "2026-11-06T10:05:00"
+   },
+   "reviews": [
+    {
+     "reviewed_at": "2026-11-06T10:05:00",
+     "result": "practice",
+     "status_before": "new",
+     "status_after": "practice",
+     "interval_after": 0.0,
+     "ease_after": 2.3
+    }
+   ]
+  },
+  {
+   "swedish": "skriva",
+   "english": "to write",
+   "example_sv": "Kan du skriva ditt namn här?",
+   "example_en": "Can you write your name here?",
+   "pronunciation": "",
+   "pronunciation_source": "",
+   "source_file": "01_Grundord.docx",
+   "import_date": "2026-11-08T23:33:54",
+   "created_at": "2026-11-08T23:33:54",
+   "decks": [
+    "01 Grundord"
+   ],
+   "progress": {
+    "status": "known",
+    "ease": 2.8,
+    "interval_days": 8.0,
+    "due_date": "2026-11-17",
+    "streak": 3,
+    "reps": 3,
+    "lapses": 0,
+    "last_reviewed": "2026-11-07T10:06:00"
+   },
+   "reviews": [
+    {
+     "reviewed_at": "2026-11-07T10:06:00",
+     "result": "know",
+     "status_before": "new",
+     "status_after": "learning",
+     "interval_after": 1.0,
+     "ease_after": 2.6
+    },
+    {
+     "reviewed_at": "2026-11-07T10:06:00",
+     "result": "know",
+     "status_before": "learning",
+     "status_after": "learning",
+     "interval_after": 3.0,
+     "ease_after": 2.7
+    },
+    {
+     "reviewed_at": "2026-11-07T10:06:00",
+     "result": "know",
+     "status_before": "learning",
+     "status_after": "known",
+     "interval_after": 8.0,
+     "ease_after": 2.8
+    }
+   ]
+  },
+  {
+   "swedish": "tala",
+   "english": "to speak",
+   "example_sv": "Hon talar tre språk.",
+   "example_en": "She speaks three languages.",
+   "pronunciation": "",
+   "pronunciation_source": "",
+   "source_file": "01_Grundord.docx",
+   "import_date": "2026-11-08T23:33:54",
+   "created_at": "2026-11-08T23:33:54",
+   "decks": [
+    "01 Grundord"
+   ],
+   "progress": {
+    "status": "learning",
+    "ease": 2.4,
+    "interval_days": 1.0,
+    "due_date": "2026-11-10",
+    "streak": 1,
+    "reps": 2,
+    "lapses": 1,
+    "last_reviewed": "2026-11-08T10:07:00"
+   },
+   "reviews": [
+    {
+     "reviewed_at": "2026-11-08T10:07:00",
+     "result": "practice",
+     "status_before": "new",
+     "status_after": "practice",
+     "interval_after": 0.0,
+     "ease_after": 2.3
+    },
+    {
+     "reviewed_at": "2026-11-08T10:07:00",
+     "result": "know",
+     "status_before": "practice",
+     "status_after": "learning",
+     "interval_after": 1.0,
+     "ease_after": 2.4
+    }
+   ]
+  },
+  {
+   "swedish": "hjälpa",
+   "english": "to help",
+   "example_sv": "Kan du hjälpa mig med väskan?",
+   "example_en": "Can you help me with the bag?",
+   "pronunciation": "",
+   "pronunciation_source": "",
+   "source_file": "01_Grundord.docx",
+   "import_date": "2026-11-08T23:33:54",
+   "created_at": "2026-11-08T23:33:54",
+   "decks": [
+    "01 Grundord"
+   ],
+   "progress": {
+    "status": "practice",
+    "ease": 2.3,
+    "interval_days": 0.0,
+    "due_date": "2026-11-09",
+    "streak": 0,
+    "reps": 1,
+    "lapses": 1,
+    "last_reviewed": "2026-11-01T10:08:00"
+   },
+   "reviews": [
+    {
+     "reviewed_at": "2026-11-01T10:08:00",
+     "result": "practice",
+     "status_before": "new",
+     "status_after": "practice",
+     "interval_after": 0.0,
+     "ease_after": 2.3
+    }
+   ]
+  },
+  {
+   "swedish": "vänta",
+   "english": "to wait",
+   "example_sv": "Vi väntar på bussen.",
+   "example_en": "We are waiting for the bus.",
+   "pronunciation": "",
+   "pronunciation_source": "",
+   "source_file": "01_Grundord.docx",
+   "import_date": "2026-11-08T23:33:54",
+   "created_at": "2026-11-08T23:33:54",
+   "decks": [
+    "01 Grundord"
+   ],
+   "progress": {
+    "status": "known",
+    "ease": 2.8,
+    "interval_days": 8.0,
+    "due_date": "2026-11-17",
+    "streak": 3,
+    "reps": 3,
+    "lapses": 0,
+    "last_reviewed": "2026-11-02T10:09:00"
+   },
+   "reviews": [
+    {
+     "reviewed_at": "2026-11-02T10:09:00",
+     "result": "know",
+     "status_before": "new",
+     "status_after": "learning",
+     "interval_after": 1.0,
+     "ease_after": 2.6
+    },
+    {
+     "reviewed_at": "2026-11-02T10:09:00",
+     "result": "know",
+     "status_before": "learning",
+     "status_after": "learning",
+     "interval_after": 3.0,
+     "ease_after": 2.7
+    },
+    {
+     "reviewed_at": "2026-11-02T10:09:00",
+     "result": "know",
+     "status_before": "learning",
+     "status_after": "known",
+     "interval_after": 8.0,
+     "ease_after": 2.8
+    }
+   ]
+  },
+  {
+   "swedish": "köpa",
+   "english": "to buy",
+   "example_sv": "Jag vill köpa ett nytt paraply.",
+   "example_en": "I want to buy a new umbrella.",
+   "pronunciation": "",
+   "pronunciation_source": "",
+   "source_file": "01_Grundord.docx",
+   "import_date": "2026-11-08T23:33:54",
+   "created_at": "2026-11-08T23:33:54",
+   "decks": [
+    "01 Grundord"
+   ],
+   "progress": {
+    "status": "learning",
+    "ease": 2.4,
+    "interval_days": 1.0,
+    "due_date": "2026-11-10",
+    "streak": 1,
+    "reps": 2,
+    "lapses": 1,
+    "last_reviewed": "2026-11-03T10:00:00"
+   },
+   "reviews": [
+    {
+     "reviewed_at": "2026-11-03T10:00:00",
+     "result": "practice",
+     "status_before": "new",
+     "status_after": "practice",
+     "interval_after": 0.0,
+     "ease_after": 2.3
+    },
+    {
+     "reviewed_at": "2026-11-03T10:00:00",
+     "result": "know",
+     "status_before": "practice",
+     "status_after": "learning",
+     "interval_after": 1.0,
+     "ease_after": 2.4
+    }
+   ]
+  },
+  {
+   "swedish": "öppna",
+   "english": "to open",
+   "example_sv": "Vill du öppna fönstret?",
+   "example_en": "Do you want to open the window?",
+   "pronunciation": "",
+   "pronunciation_source": "",
+   "source_file": "01_Grundord.docx",
+   "import_date": "2026-11-08T23:33:54",
+   "created_at": "2026-11-08T23:33:54",
+   "decks": [
+    "01 Grundord"
+   ],
+   "progress": {
+    "status": "practice",
+    "ease": 2.3,
+    "interval_days": 0.0,
+    "due_date": "2026-11-09",
+    "streak": 0,
+    "reps": 1,
+    "lapses": 1,
+    "last_reviewed": "2026-11-04T10:01:00"
+   },
+   "reviews": [
+    {
+     "reviewed_at": "2026-11-04T10:01:00",
+     "result": "practice",
+     "status_before": "new",
+     "status_after": "practice",
+     "interval_after": 0.0,
+     "ease_after": 2.3
+    }
+   ]
+  },
+  {
+   "swedish": "hus",
+   "english": "house",
+   "example_sv": "Vårt hus ligger nära skogen.",
+   "example_en": "Our house is near the forest.",
+   "pronunciation": "",
+   "pronunciation_source": "",
+   "source_file": "01_Grundord.docx",
+   "import_date": "2026-11-08T23:33:54",
+   "created_at": "2026-11-08T23:33:54",
+   "decks": [
+    "01 Grundord"
+   ],
+   "progress": {
+    "status": "new",
+    "ease": 2.5,
+    "interval_days": 0.0,
+    "due_date": null,
+    "streak": 0,
+    "reps": 0,
+    "lapses": 0,
+    "last_reviewed": null
+   },
+   "reviews": []
+  },
+  {
+   "swedish": "bil",
+   "english": "car",
+   "example_sv": "Han köpte en röd bil.",
+   "example_en": "He bought a red car.",
+   "pronunciation": "",
+   "pronunciation_source": "",
+   "source_file": "01_Grundord.docx",
+   "import_date": "2026-11-08T23:33:54",
+   "created_at": "2026-11-08T23:33:54",
+   "decks": [
+    "01 Grundord"
+   ],
+   "progress": {
+    "status": "new",
+    "ease": 2.5,
+    "interval_days": 0.0,
+    "due_date": null,
+    "streak": 0,
+    "reps": 0,
+    "lapses": 0,
+    "last_reviewed": null
+   },
+   "reviews": []
+  },
+  {
+   "swedish": "skola",
+   "english": "school",
+   "example_sv": "Barnen går i skolan.",
+   "example_en": "The children go to school.",
+   "pronunciation": "",
+   "pronunciation_source": "",
+   "source_file": "01_Grundord.docx",
+   "import_date": "2026-11-08T23:33:54",
+   "created_at": "2026-11-08T23:33:54",
+   "decks": [
+    "01 Grundord"
+   ],
+   "progress": {
+    "status": "new",
+    "ease": 2.5,
+    "interval_days": 0.0,
+    "due_date": null,
+    "streak": 0,
+    "reps": 0,
+    "lapses": 0,
+    "last_reviewed": null
+   },
+   "reviews": []
+  },
+  {
+   "swedish": "vän",
+   "english": "friend",
+   "example_sv": "Min bästa vän heter Anna.",
+   "example_en": "My best friend is called Anna.",
+   "pronunciation": "",
+   "pronunciation_source": "",
+   "source_file": "01_Grundord.docx",
+   "import_date": "2026-11-08T23:33:54",
+   "created_at": "2026-11-08T23:33:54",
+   "decks": [
+    "01 Grundord"
+   ],
+   "progress": {
+    "status": "new",
+    "ease": 2.5,
+    "interval_days": 0.0,
+    "due_date": null,
+    "streak": 0,
+    "reps": 0,
+    "lapses": 0,
+    "last_reviewed": null
+   },
+   "reviews": []
+  },
+  {
+   "swedish": "stad",
+   "english": "city, town",
+   "example_sv": "Stockholm är en stor stad.",
+   "example_en": "Stockholm is a big city.",
+   "pronunciation": "",
+   "pronunciation_source": "",
+   "source_file": "01_Grundord.docx",
+   "import_date": "2026-11-08T23:33:54",
+   "created_at": "2026-11-08T23:33:54",
+   "decks": [
+    "01 Grundord"
+   ],
+   "progress": {
+    "status": "new",
+    "ease": 2.5,
+    "interval_days": 0.0,
+    "due_date": null,
+    "streak": 0,
+    "reps": 0,
+    "lapses": 0,
+    "last_reviewed": null
+   },
+   "reviews": []
+  },
+  {
+   "swedish": "vatten",
+   "english": "water",
+   "example_sv": "Jag dricker ett glas vatten.",
+   "example_en": "I drink a glass of water.",
+   "pronunciation": "",
+   "pronunciation_source": "",
+   "source_file": "01_Grundord.docx",
+   "import_date": "2026-11-08T23:33:54",
+   "created_at": "2026-11-08T23:33:54",
+   "decks": [
+    "01 Grundord",
+    "02 Mat och dryck"
+   ],
+   "progress": {
+    "status": "new",
+    "ease": 2.5,
+    "interval_days": 0.0,
+    "due_date": null,
+    "streak": 0,
+    "reps": 0,
+    "lapses": 0,
+    "last_reviewed": null
+   },
+   "reviews": []
+  },
+  {
+   "swedish": "bord",
+   "english": "table",
+   "example_sv": "Boken ligger på bordet.",
+   "example_en": "The book is on the table.",
+   "pronunciation": "",
+   "pronunciation_source": "",
+   "source_file": "01_Grundord.docx",
+   "import_date": "2026-11-08T23:33:54",
+   "created_at": "2026-11-08T23:33:54",
+   "decks": [
+    "01 Grundord"
+   ],
+   "progress": {
+    "status": "new",
+    "ease": 2.5,
+    "interval_days": 0.0,
+    "due_date": null,
+    "streak": 0,
+    "reps": 0,
+    "lapses": 0,
+    "last_reviewed": null
+   },
+   "reviews": []
+  },
+  {
+   "swedish": "fönster",
+   "english": "window",
+   "example_sv": "Fönstret är öppet.",
+   "example_en": "The window is open.",
+   "pronunciation": "",
+   "pronunciation_source": "",
+   "source_file": "01_Grundord.docx",
+   "import_date": "2026-11-08T23:33:54",
+   "created_at": "2026-11-08T23:33:54",
+   "decks": [
+    "01 Grundord"
+   ],
+   "progress": {
+    "status": "new",
+    "ease": 2.5,
+    "interval_days": 0.0,
+    "due_date": null,
+    "streak": 0,
+    "reps": 0,
+    "lapses": 0,
+    "last_reviewed": null
+   },
+   "reviews": []
+  },
+  {
+   "swedish": "smör",
+   "english": "butter",
+   "example_sv": "Jag vill ha smör på mackan.",
+   "example_en": "I would like butter on my sandwich.",
+   "pronunciation": "",
+   "pronunciation_source": "",
+   "source_file": "02_Mat_och_dryck.docx",
+   "import_date": "2026-11-08T23:33:54",
+   "created_at": "2026-11-08T23:33:54",
+   "decks": [
+    "02 Mat och dryck"
+   ],
+   "progress": {
+    "status": "new",
+    "ease": 2.5,
+    "interval_days": 0.0,
+    "due_date": null,
+    "streak": 0,
+    "reps": 0,
+    "lapses": 0,
+    "last_reviewed": null
+   },
+   "reviews": []
+  },
+  {
+   "swedish": "ost",
+   "english": "cheese",
+   "example_sv": "Hon äter ost och kex.",
+   "example_en": "She eats cheese and crackers.",
+   "pronunciation": "",
+   "pronunciation_source": "",
+   "source_file": "02_Mat_och_dryck.docx",
+   "import_date": "2026-11-08T23:33:54",
+   "created_at": "2026-11-08T23:33:54",
+   "decks": [
+    "02 Mat och dryck"
+   ],
+   "progress": {
+    "status": "new",
+    "ease": 2.5,
+    "interval_days": 0.0,
+    "due_date": null,
+    "streak": 0,
+    "reps": 0,
+    "lapses": 0,
+    "last_reviewed": null
+   },
+   "reviews": []
+  },
+  {
+   "swedish": "bröd",
+   "english": "bread",
+   "example_sv": "Vi bakar bröd i helgen.",
+   "example_en": "We are baking bread this weekend.",
+   "pronunciation": "",
+   "pronunciation_source": "",
+   "source_file": "02_Mat_och_dryck.docx",
+   "import_date": "2026-11-08T23:33:54",
+   "created_at": "2026-11-08T23:33:54",
+   "decks": [
+    "02 Mat och dryck"
+   ],
+   "progress": {
+    "status": "new",
+    "ease": 2.5,
+    "interval_days": 0.0,
+    "due_date": null,
+    "streak": 0,
+    "reps": 0,
+    "lapses": 0,
+    "last_reviewed": null
+   },
+   "reviews": []
+  },
+  {
+   "swedish": "mjölk",
+   "english": "milk",
+   "example_sv": "Barnet dricker kall mjölk.",
+   "example_en": "The child drinks cold milk.",
+   "pronunciation": "",
+   "pronunciation_source": "",
+   "source_file": "02_Mat_och_dryck.docx",
+   "import_date": "2026-11-08T23:33:54",
+   "created_at": "2026-11-08T23:33:54",
+   "decks": [
+    "02 Mat och dryck"
+   ],
+   "progress": {
+    "status": "new",
+    "ease": 2.5,
+    "interval_days": 0.0,
+    "due_date": null,
+    "streak": 0,
+    "reps": 0,
+    "lapses": 0,
+    "last_reviewed": null
+   },
+   "reviews": []
+  },
+  {
+   "swedish": "ägg",
+   "english": "egg",
+   "example_sv": "Jag kokar två ägg till frukost.",
+   "example_en": "I boil two eggs for breakfast.",
+   "pronunciation": "",
+   "pronunciation_source": "",
+   "source_file": "02_Mat_och_dryck.docx",
+   "import_date": "2026-11-08T23:33:54",
+   "created_at": "2026-11-08T23:33:54",
+   "decks": [
+    "02 Mat och dryck"
+   ],
+   "progress": {
+    "status": "new",
+    "ease": 2.5,
+    "interval_days": 0.0,
+    "due_date": null,
+    "streak": 0,
+    "reps": 0,
+    "lapses": 0,
+    "last_reviewed": null
+   },
+   "reviews": []
+  },
+  {
+   "swedish": "fisk",
+   "english": "fish",
+   "example_sv": "Vi äter fisk på fredagar.",
+   "example_en": "We eat fish on Fridays.",
+   "pronunciation": "",
+   "pronunciation_source": "",
+   "source_file": "02_Mat_och_dryck.docx",
+   "import_date": "2026-11-08T23:33:54",
+   "created_at": "2026-11-08T23:33:54",
+   "decks": [
+    "02 Mat och dryck"
+   ],
+   "progress": {
+    "status": "new",
+    "ease": 2.5,
+    "interval_days": 0.0,
+    "due_date": null,
+    "streak": 0,
+    "reps": 0,
+    "lapses": 0,
+    "last_reviewed": null
+   },
+   "reviews": []
+  },
+  {
+   "swedish": "äpple",
+   "english": "apple",
+   "example_sv": "Äpplet är sött och saftigt.",
+   "example_en": "The apple is sweet and juicy.",
+   "pronunciation": "",
+   "pronunciation_source": "",
+   "source_file": "02_Mat_och_dryck.docx",
+   "import_date": "2026-11-08T23:33:54",
+   "created_at": "2026-11-08T23:33:54",
+   "decks": [
+    "02 Mat och dryck"
+   ],
+   "progress": {
+    "status": "new",
+    "ease": 2.5,
+    "interval_days": 0.0,
+    "due_date": null,
+    "streak": 0,
+    "reps": 0,
+    "lapses": 0,
+    "last_reviewed": null
+   },
+   "reviews": []
+  },
+  {
+   "swedish": "potatis",
+   "english": "potato",
+   "example_sv": "Han skalar potatis till middagen.",
+   "example_en": "He peels potatoes for dinner.",
+   "pronunciation": "",
+   "pronunciation_source": "",
+   "source_file": "02_Mat_och_dryck.docx",
+   "import_date": "2026-11-08T23:33:54",
+   "created_at": "2026-11-08T23:33:54",
+   "decks": [
+    "02 Mat och dryck"
+   ],
+   "progress": {
+    "status": "new",
+    "ease": 2.5,
+    "interval_days": 0.0,
+    "due_date": null,
+    "streak": 0,
+    "reps": 0,
+    "lapses": 0,
+    "last_reviewed": null
+   },
+   "reviews": []
+  },
+  {
+   "swedish": "sallad",
+   "english": "salad",
+   "example_sv": "Hon gör en sallad med tomat.",
+   "example_en": "She makes a salad with tomato.",
+   "pronunciation": "",
+   "pronunciation_source": "",
+   "source_file": "02_Mat_och_dryck.docx",
+   "import_date": "2026-11-08T23:33:54",
+   "created_at": "2026-11-08T23:33:54",
+   "decks": [
+    "02 Mat och dryck"
+   ],
+   "progress": {
+    "status": "new",
+    "ease": 2.5,
+    "interval_days": 0.0,
+    "due_date": null,
+    "streak": 0,
+    "reps": 0,
+    "lapses": 0,
+    "last_reviewed": null
+   },
+   "reviews": []
+  },
+  {
+   "swedish": "kyckling",
+   "english": "chicken",
+   "example_sv": "Kycklingen är färdig i ugnen.",
+   "example_en": "The chicken is done in the oven.",
+   "pronunciation": "",
+   "pronunciation_source": "",
+   "source_file": "02_Mat_och_dryck.docx",
+   "import_date": "2026-11-08T23:33:54",
+   "created_at": "2026-11-08T23:33:54",
+   "decks": [
+    "02 Mat och dryck"
+   ],
+   "progress": {
+    "status": "new",
+    "ease": 2.5,
+    "interval_days": 0.0,
+    "due_date": null,
+    "streak": 0,
+    "reps": 0,
+    "lapses": 0,
+    "last_reviewed": null
+   },
+   "reviews": []
+  },
+  {
+   "swedish": "socker",
+   "english": "sugar",
+   "example_sv": "Vill du ha socker i teet?",
+   "example_en": "Do you want sugar in your tea?",
+   "pronunciation": "",
+   "pronunciation_source": "",
+   "source_file": "02_Mat_och_dryck.docx",
+   "import_date": "2026-11-08T23:33:54",
+   "created_at": "2026-11-08T23:33:54",
+   "decks": [
+    "02 Mat och dryck"
+   ],
+   "progress": {
+    "status": "new",
+    "ease": 2.5,
+    "interval_days": 0.0,
+    "due_date": null,
+    "streak": 0,
+    "reps": 0,
+    "lapses": 0,
+    "last_reviewed": null
+   },
+   "reviews": []
+  },
+  {
+   "swedish": "hungrig",
+   "english": "hungry",
+   "example_sv": "Jag är mycket hungrig nu.",
+   "example_en": "I am very hungry now.",
+   "pronunciation": "",
+   "pronunciation_source": "",
+   "source_file": "02_Mat_och_dryck.docx",
+   "import_date": "2026-11-08T23:33:54",
+   "created_at": "2026-11-08T23:33:54",
+   "decks": [
+    "02 Mat och dryck"
+   ],
+   "progress": {
+    "status": "new",
+    "ease": 2.5,
+    "interval_days": 0.0,
+    "due_date": null,
+    "streak": 0,
+    "reps": 0,
+    "lapses": 0,
+    "last_reviewed": null
+   },
+   "reviews": []
+  },
+  {
+   "swedish": "törstig",
+   "english": "thirsty",
+   "example_sv": "Barnen är törstiga efter leken.",
+   "example_en": "The children are thirsty after playing.",
+   "pronunciation": "",
+   "pronunciation_source": "",
+   "source_file": "02_Mat_och_dryck.docx",
+   "import_date": "2026-11-08T23:33:54",
+   "created_at": "2026-11-08T23:33:54",
+   "decks": [
+    "02 Mat och dryck"
+   ],
+   "progress": {
+    "status": "new",
+    "ease": 2.5,
+    "interval_days": 0.0,
+    "due_date": null,
+    "streak": 0,
+    "reps": 0,
+    "lapses": 0,
+    "last_reviewed": null
+   },
+   "reviews": []
+  },
+  {
+   "swedish": "kniv",
+   "english": "knife",
+   "example_sv": "",
+   "example_en": "",
+   "pronunciation": "",
+   "pronunciation_source": "",
+   "source_file": "02_Mat_och_dryck.docx",
+   "import_date": "2026-11-08T23:33:54",
+   "created_at": "2026-11-08T23:33:54",
+   "decks": [
+    "02 Mat och dryck"
+   ],
+   "progress": {
+    "status": "new",
+    "ease": 2.5,
+    "interval_days": 0.0,
+    "due_date": null,
+    "streak": 0,
+    "reps": 0,
+    "lapses": 0,
+    "last_reviewed": null
+   },
+   "reviews": []
+  },
+  {
+   "swedish": "idag",
+   "english": "today",
+   "example_sv": "Idag regnar det hela dagen.",
+   "example_en": "It is raining all day today.",
+   "pronunciation": "",
+   "pronunciation_source": "",
+   "source_file": "03_Resor_och_tid.docx",
+   "import_date": "2026-11-08T23:33:54",
+   "created_at": "2026-11-08T23:33:54",
+   "decks": [
+    "03 Resor och tid"
+   ],
+   "progress": {
+    "status": "new",
+    "ease": 2.5,
+    "interval_days": 0.0,
+    "due_date": null,
+    "streak": 0,
+    "reps": 0,
+    "lapses": 0,
+    "last_reviewed": null
+   },
+   "reviews": []
+  },
+  {
+   "swedish": "imorgon",
+   "english": "tomorrow",
+   "example_sv": "Vi ses imorgon klockan nio.",
+   "example_en": "See you tomorrow at nine o'clock.",
+   "pronunciation": "",
+   "pronunciation_source": "",
+   "source_file": "03_Resor_och_tid.docx",
+   "import_date": "2026-11-08T23:33:54",
+   "created_at": "2026-11-08T23:33:54",
+   "decks": [
+    "03 Resor och tid"
+   ],
+   "progress": {
+    "status": "new",
+    "ease": 2.5,
+    "interval_days": 0.0,
+    "due_date": null,
+    "streak": 0,
+    "reps": 0,
+    "lapses": 0,
+    "last_reviewed": null
+   },
+   "reviews": []
+  },
+  {
+   "swedish": "igår",
+   "english": "yesterday",
+   "example_sv": "Igår var jag på biblioteket.",
+   "example_en": "Yesterday I was at the library.",
+   "pronunciation": "",
+   "pronunciation_source": "",
+   "source_file": "03_Resor_och_tid.docx",
+   "import_date": "2026-11-08T23:33:54",
+   "created_at": "2026-11-08T23:33:54",
+   "decks": [
+    "03 Resor och tid"
+   ],
+   "progress": {
+    "status": "new",
+    "ease": 2.5,
+    "interval_days": 0.0,
+    "due_date": null,
+    "streak": 0,
+    "reps": 0,
+    "lapses": 0,
+    "last_reviewed": null
+   },
+   "reviews": []
+  },
+  {
+   "swedish": "vecka",
+   "english": "week",
+   "example_sv": "Jag har semester nästa vecka.",
+   "example_en": "I have a vacation next week.",
+   "pronunciation": "",
+   "pronunciation_source": "",
+   "source_file": "03_Resor_och_tid.docx",
+   "import_date": "2026-11-08T23:33:54",
+   "created_at": "2026-11-08T23:33:54",
+   "decks": [
+    "03 Resor och tid"
+   ],
+   "progress": {
+    "status": "new",
+    "ease": 2.5,
+    "interval_days": 0.0,
+    "due_date": null,
+    "streak": 0,
+    "reps": 0,
+    "lapses": 0,
+    "last_reviewed": null
+   },
+   "reviews": []
+  },
+  {
+   "swedish": "månad",
+   "english": "month",
+   "example_sv": "Februari är en kort månad.",
+   "example_en": "February is a short month.",
+   "pronunciation": "",
+   "pronunciation_source": "",
+   "source_file": "03_Resor_och_tid.docx",
+   "import_date": "2026-11-08T23:33:54",
+   "created_at": "2026-11-08T23:33:54",
+   "decks": [
+    "03 Resor och tid"
+   ],
+   "progress": {
+    "status": "new",
+    "ease": 2.5,
+    "interval_days": 0.0,
+    "due_date": null,
+    "streak": 0,
+    "reps": 0,
+    "lapses": 0,
+    "last_reviewed": null
+   },
+   "reviews": []
+  },
+  {
+   "swedish": "år",
+   "english": "year",
+   "example_sv": "Det är ett nytt år.",
+   "example_en": "It is a new year.",
+   "pronunciation": "",
+   "pronunciation_source": "",
+   "source_file": "03_Resor_och_tid.docx",
+   "import_date": "2026-11-08T23:33:54",
+   "created_at": "2026-11-08T23:33:54",
+   "decks": [
+    "03 Resor och tid"
+   ],
+   "progress": {
+    "status": "new",
+    "ease": 2.5,
+    "interval_days": 0.0,
+    "due_date": null,
+    "streak": 0,
+    "reps": 0,
+    "lapses": 0,
+    "last_reviewed": null
+   },
+   "reviews": []
+  },
+  {
+   "swedish": "tåg",
+   "english": "train",
+   "example_sv": "Tåget till Uppsala går klockan åtta.",
+   "example_en": "The train to Uppsala leaves at eight.",
+   "pronunciation": "",
+   "pronunciation_source": "",
+   "source_file": "03_Resor_och_tid.docx",
+   "import_date": "2026-11-08T23:33:54",
+   "created_at": "2026-11-08T23:33:54",
+   "decks": [
+    "03 Resor och tid"
+   ],
+   "progress": {
+    "status": "new",
+    "ease": 2.5,
+    "interval_days": 0.0,
+    "due_date": null,
+    "streak": 0,
+    "reps": 0,
+    "lapses": 0,
+    "last_reviewed": null
+   },
+   "reviews": []
+  },
+  {
+   "swedish": "buss",
+   "english": "bus",
+   "example_sv": "Bussen är försenad.",
+   "example_en": "The bus is delayed.",
+   "pronunciation": "",
+   "pronunciation_source": "",
+   "source_file": "03_Resor_och_tid.docx",
+   "import_date": "2026-11-08T23:33:54",
+   "created_at": "2026-11-08T23:33:54",
+   "decks": [
+    "03 Resor och tid"
+   ],
+   "progress": {
+    "status": "new",
+    "ease": 2.5,
+    "interval_days": 0.0,
+    "due_date": null,
+    "streak": 0,
+    "reps": 0,
+    "lapses": 0,
+    "last_reviewed": null
+   },
+   "reviews": []
+  },
+  {
+   "swedish": "flygplats",
+   "english": "airport",
+   "example_sv": "Vi åker till flygplatsen med taxi.",
+   "example_en": "We are going to the airport by taxi.",
+   "pronunciation": "",
+   "pronunciation_source": "",
+   "source_file": "03_Resor_och_tid.docx",
+   "import_date": "2026-11-08T23:33:54",
+   "created_at": "2026-11-08T23:33:54",
+   "decks": [
+    "03 Resor och tid"
+   ],
+   "progress": {
+    "status": "new",
+    "ease": 2.5,
+    "interval_days": 0.0,
+    "due_date": null,
+    "streak": 0,
+    "reps": 0,
+    "lapses": 0,
+    "last_reviewed": null
+   },
+   "reviews": []
+  },
+  {
+   "swedish": "biljett",
+   "english": "ticket",
+   "example_sv": "Jag har tappat min biljett.",
+   "example_en": "I have lost my ticket.",
+   "pronunciation": "",
+   "pronunciation_source": "",
+   "source_file": "03_Resor_och_tid.docx",
+   "import_date": "2026-11-08T23:33:54",
+   "created_at": "2026-11-08T23:33:54",
+   "decks": [
+    "03 Resor och tid"
+   ],
+   "progress": {
+    "status": "new",
+    "ease": 2.5,
+    "interval_days": 0.0,
+    "due_date": null,
+    "streak": 0,
+    "reps": 0,
+    "lapses": 0,
+    "last_reviewed": null
+   },
+   "reviews": []
+  },
+  {
+   "swedish": "resa",
+   "english": "trip, journey",
+   "example_sv": "Vi planerar en resa till Skåne.",
+   "example_en": "We are planning a trip to Skåne.",
+   "pronunciation": "",
+   "pronunciation_source": "",
+   "source_file": "03_Resor_och_tid.docx",
+   "import_date": "2026-11-08T23:33:54",
+   "created_at": "2026-11-08T23:33:54",
+   "decks": [
+    "03 Resor och tid"
+   ],
+   "progress": {
+    "status": "new",
+    "ease": 2.5,
+    "interval_days": 0.0,
+    "due_date": null,
+    "streak": 0,
+    "reps": 0,
+    "lapses": 0,
+    "last_reviewed": null
+   },
+   "reviews": []
+  },
+  {
+   "swedish": "resa",
+   "english": "to travel",
+   "example_sv": "Jag vill resa med tåg i sommar.",
+   "example_en": "I want to travel by train this summer.",
+   "pronunciation": "",
+   "pronunciation_source": "",
+   "source_file": "03_Resor_och_tid.docx",
+   "import_date": "2026-11-08T23:33:54",
+   "created_at": "2026-11-08T23:33:54",
+   "decks": [
+    "03 Resor och tid"
+   ],
+   "progress": {
+    "status": "new",
+    "ease": 2.5,
+    "interval_days": 0.0,
+    "due_date": null,
+    "streak": 0,
+    "reps": 0,
+    "lapses": 0,
+    "last_reviewed": null
+   },
+   "reviews": []
+  },
+  {
+   "swedish": "tråkig",
+   "english": "boring",
+   "example_sv": "Filmen var lite tråkig.",
+   "example_en": "The film was a bit boring.",
+   "pronunciation": "",
+   "pronunciation_source": "",
+   "source_file": "03_Resor_och_tid.docx",
+   "import_date": "2026-11-08T23:33:54",
+   "created_at": "2026-11-08T23:33:54",
+   "decks": [
+    "03 Resor och tid"
+   ],
+   "progress": {
+    "status": "new",
+    "ease": 2.5,
+    "interval_days": 0.0,
+    "due_date": null,
+    "streak": 0,
+    "reps": 0,
+    "lapses": 0,
+    "last_reviewed": null
+   },
+   "reviews": []
+  },
+  {
+   "swedish": "rolig",
+   "english": "fun, funny",
+   "example_sv": "Det var en rolig kväll.",
+   "example_en": "It was a fun evening.",
+   "pronunciation": "",
+   "pronunciation_source": "",
+   "source_file": "03_Resor_och_tid.docx",
+   "import_date": "2026-11-08T23:33:54",
+   "created_at": "2026-11-08T23:33:54",
+   "decks": [
+    "03 Resor och tid"
+   ],
+   "progress": {
+    "status": "new",
+    "ease": 2.5,
+    "interval_days": 0.0,
+    "due_date": null,
+    "streak": 0,
+    "reps": 0,
+    "lapses": 0,
+    "last_reviewed": null
+   },
+   "reviews": []
+  },
+  {
+   "swedish": "väg",
+   "english": "road, way",
+   "example_sv": "Vilken väg tar vi?",
+   "example_en": "Which way are we taking?",
+   "pronunciation": "",
+   "pronunciation_source": "",
+   "source_file": "03_Resor_och_tid.docx",
+   "import_date": "2026-11-08T23:33:54",
+   "created_at": "2026-11-08T23:33:54",
+   "decks": [
+    "03 Resor och tid"
+   ],
+   "progress": {
+    "status": "new",
+    "ease": 2.5,
+    "interval_days": 0.0,
+    "due_date": null,
+    "streak": 0,
+    "reps": 0,
+    "lapses": 0,
+    "last_reviewed": null
+   },
+   "reviews": []
+  },
+  {
+   "swedish": "gå",
+   "english": "to walk, to go",
+   "example_sv": "Jag går till jobbet varje dag.",
+   "example_en": "I walk to work every day.",
+   "pronunciation": "",
+   "pronunciation_source": "",
+   "source_file": "03_Resor_och_tid.docx",
+   "import_date": "2026-11-08T23:33:54",
+   "created_at": "2026-11-08T23:33:54",
+   "decks": [
+    "03 Resor och tid"
+   ],
+   "progress": {
+    "status": "new",
+    "ease": 2.5,
+    "interval_days": 0.0,
+    "due_date": null,
+    "streak": 0,
+    "reps": 0,
+    "lapses": 0,
+    "last_reviewed": null
+   },
+   "reviews": []
+  }
+ ]
+}

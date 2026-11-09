@@ -1,0 +1,27 @@
+{
+  "name": "ordkort-mobile",
+  "version": "1.0.0",
+  "description": "Ordkort - Swedish vocabulary flashcards (Android, iPhone and browser)",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test tests/*.test.js",
+    "serve": "node tools/serve.mjs",
+    "cap:add:android": "cap add android",
+    "cap:add:ios": "cap add ios",
+    "sync": "cap sync",
+    "icons": "node tools/make_icons.mjs"
+  },
+  "dependencies": {
+    "@capacitor-community/text-to-speech": "^8.0.2",
+    "@capacitor/android": "^8.6.0",
+    "@capacitor/core": "^8.6.0",
+    "@capacitor/filesystem": "^8.1.5",
+    "@capacitor/ios": "^8.6.0",
+    "@capacitor/share": "^8.0.3"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^8.6.0"
+  },
+  "engines": { "node": ">=22" }
+}

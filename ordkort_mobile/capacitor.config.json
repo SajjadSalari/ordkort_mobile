@@ -1,0 +1,8 @@
+{
+  "appId": "com.ordkort.mobile",
+  "appName": "Ordkort",
+  "webDir": "www",
+  "backgroundColor": "#f4f6fb",
+  "android": { "allowMixedContent": false },
+  "ios": { "contentInset": "never" }
+}
