@@ -9,6 +9,12 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 22
+      - name: Use the newest installed Xcode
+        run: |
+          ls -d /Applications/Xcode*.app
+          XC=$(ls -d /Applications/Xcode_*.app 2>/dev/null | sort -V | tail -1)
+          if [ -n "$XC" ]; then sudo xcode-select -s "$XC/Contents/Developer"; fi
+          xcodebuild -version
       - run: npm install
       - run: npm test
       - run: npx cap add ios
@@ -18,12 +24,15 @@ jobs:
       - run: npx cap sync ios
       - name: Build without code signing
         working-directory: ios/App
-        run: >
-          xcodebuild -project App.xcodeproj -scheme App -configuration Release
-          -sdk iphoneos -destination 'generic/platform=iOS' -derivedDataPath build
-          CODE_SIGNING_ALLOWED=NO CODE_SIGNING_REQUIRED=NO CODE_SIGN_IDENTITY="" build
+        run: |
+          ls -la
+          if [ -d App.xcworkspace ]; then TARGET="-workspace App.xcworkspace"; else TARGET="-project App.xcodeproj"; fi
+          xcodebuild $TARGET -scheme App -configuration Release -sdk iphoneos \
+            -destination 'generic/platform=iOS' -derivedDataPath build \
+            CODE_SIGNING_ALLOWED=NO CODE_SIGNING_REQUIRED=NO CODE_SIGN_IDENTITY="" build
       - name: Package the IPA
         run: |
+          find ios/App/build -name "*.app" -maxdepth 6
           mkdir -p Payload
           cp -R ios/App/build/Build/Products/Release-iphoneos/App.app Payload/
           zip -qr Ordkort.ipa Payload
